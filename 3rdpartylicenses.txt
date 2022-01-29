@@ -22,6 +22,9 @@ MIT
 @awesome-cordova-plugins/document-viewer
 MIT
 
+@awesome-cordova-plugins/file-opener
+MIT
+
 @awesome-cordova-plugins/in-app-browser
 MIT
 
@@ -50,6 +53,12 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
+@ionic-native/core
+MIT
+
+@ionic-native/file
+MIT
 
 @ionic/angular
 MIT
